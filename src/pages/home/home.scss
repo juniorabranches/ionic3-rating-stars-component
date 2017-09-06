@@ -1,0 +1,14 @@
+.rating-container {
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+  ul.rating {
+    display: inline;
+
+    li {
+      display: inline;
+      font-size: 20px;
+      padding-left: 3px;
+    }
+  }
+}
