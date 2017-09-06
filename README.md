@@ -1,4 +1,4 @@
-![View this](src/assets/img/rating.png)
+![View this](src/assets/img/rating.PNG)
 
 # To run:
 * > npm install
